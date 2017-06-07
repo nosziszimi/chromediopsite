@@ -8,6 +8,7 @@ public class DaniClass {
   }
   
   private static void future(String parameter, String monthDay) {
+    System.out.println("Your future looks like " + parameter);
     System.out.println(parameter);
     System.out.println("Pisces");
     System.out.println(monthDay);
