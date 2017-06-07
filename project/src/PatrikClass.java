@@ -6,7 +6,7 @@ public class PatrikClass {
   }
 
   private static void count(String givenParameter) {
-    System.out.println(givenParameter);
+    System.out.println("Counting the countless " + givenParameter);
   }
 
 }
