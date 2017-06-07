@@ -8,7 +8,6 @@ public class NoriClass {
   }
 
   public static void greet() {
-    System.out.println("Nóri");
+    System.out.println("Greetings!");
   }
-
 }
