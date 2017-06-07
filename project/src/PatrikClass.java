@@ -2,11 +2,11 @@
 public class PatrikClass {
 
   public static void main(String[] args) {
-    count("május");
+    count("május ", 2);
   }
 
-  private static void count(String givenParameter) {
-    System.out.println("Counting the countless " + givenParameter);
+  private static void count(String givenParameter, int givennumber) {
+    System.out.println(givenParameter + givennumber);
   }
 
 }
