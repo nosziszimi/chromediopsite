@@ -4,10 +4,10 @@
 public class PetiClass {
 
   public static void main(String[] args) {
-    cheer("Java");
+    cheer("Island of", "Java");
   }
 
-  private static void cheer(String toSystemOut) {
-    System.out.println(toSystemOut);
+  private static void cheer(String firstPart, String secondPart) {
+    System.out.println(firstPart + " " + secondPart);
   }
 }
