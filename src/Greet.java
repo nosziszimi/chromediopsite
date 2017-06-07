@@ -3,8 +3,16 @@
  */
 public class Greet {
 
+  public static void main(String[] args) {
+    greet();
+    cheer();
+  }
+
   public static void greet() {
     System.out.println("Nóri");
   }
 
+  public static void cheer() {
+    System.out.println("Chrome Diopside");
+  }
 }
