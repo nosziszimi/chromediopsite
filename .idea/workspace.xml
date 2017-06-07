@@ -17,7 +17,11 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+=======
+    <leaf>
+>>>>>>> d88929c5539881e3d3297cb351dca6989cb5947e
       <file leaf-file-name="Greet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Greet.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -31,6 +35,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="PatrikClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PatrikClass.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,6 +56,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+=======
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+>>>>>>> d88929c5539881e3d3297cb351dca6989cb5947e
               <folding />
             </state>
           </provider>
@@ -85,7 +97,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Greet.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/PatrikClass.java" />
+=======
+        <option value="$PROJECT_DIR$/.gitignore" />
+>>>>>>> d88929c5539881e3d3297cb351dca6989cb5947e
       </list>
     </option>
   </component>
@@ -589,13 +605,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496826551003</updated>
+<<<<<<< HEAD
       <workItem from="1496826558133" duration="1239000" />
       <workItem from="1496827959218" duration="1175000" />
+=======
+      <workItem from="1496826558133" duration="1866000" />
+>>>>>>> d88929c5539881e3d3297cb351dca6989cb5947e
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2414000" />
+=======
+    <option name="totallyTimeSpent" value="1866000" />
+>>>>>>> d88929c5539881e3d3297cb351dca6989cb5947e
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -677,6 +701,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/PatrikClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -687,6 +712,13 @@
             <element signature="e#161#162#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+>>>>>>> d88929c5539881e3d3297cb351dca6989cb5947e
         </state>
       </provider>
     </entry>
