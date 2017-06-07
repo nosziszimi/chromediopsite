@@ -1,12 +1,12 @@
 public class DaniClass {
 
   public static void main(String[] args) {
-    future("My horoscope is:", "March the 3rd");
+    future("My horoscope is:");
   }
   
-  private static void future(String parameter, String monthDay) {
+  private static void future(String parameter) {
+    System.out.println("Your future looks like " + parameter);
     System.out.println(parameter);
     System.out.println("Pisces");
-    System.out.println(monthDay);
   }
 }

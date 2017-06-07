@@ -1,7 +1,7 @@
 public class PetiClass {
 
   public static void main(String[] args) {
-    cheer("Java");
+    cheer("Peti");
   }
 
   private static void cheer(String parameter) {
