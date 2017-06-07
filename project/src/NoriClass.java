@@ -7,15 +7,8 @@ public class NoriClass {
     greet("Hello");
   }
 
-<<<<<<< HEAD
   public static void greet(String greeting) {
     System.out.println(greeting + " Nóri");
-=======
-  public static void greet() {
     System.out.println("Greetings!");
-<<<<<<< HEAD
->>>>>>> bc64a5000212ae4cfc32ab19a47a73e6c2394638
-=======
->>>>>>> bc64a5000212ae4cfc32ab19a47a73e6c2394638
   }
 }
