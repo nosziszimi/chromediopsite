@@ -2,7 +2,7 @@
 public class PatrikClass {
 
   public static void main(String[] args) {
-    count("B2 param");
+    count("május");
   }
 
   private static void count(String givenParameter) {
