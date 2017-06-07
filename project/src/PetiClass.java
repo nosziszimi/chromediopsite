@@ -3,7 +3,11 @@
  */
 public class PetiClass {
 
-  public void cheer() {
-    System.out.println("Chrome Diopside");
+  public static void main(String[] args) {
+    cheer("Chrome Diopside");
+  }
+
+  private static void cheer(String toPrint) {
+    System.out.println(toPrint);
   }
 }
