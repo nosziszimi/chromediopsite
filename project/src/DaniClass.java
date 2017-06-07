@@ -8,6 +8,6 @@ public class DaniClass {
   }
 
   private static void future() {
-    System.out.println("Pisces");
+    System.out.println("Tiger");
   }
 }
