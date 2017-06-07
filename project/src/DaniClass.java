@@ -8,7 +8,7 @@ public class DaniClass {
   }
 
   private static void future(String parameter) {
-    System.out.println(parameter);
+    System.out.println("Your future looks like " + parameter);
     System.out.println("Pisces");
   }
 }
