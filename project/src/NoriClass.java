@@ -4,11 +4,11 @@
 public class NoriClass {
 
   public static void main(String[] args) {
-    greet();
+    greet("Hello");
   }
 
-  public static void greet() {
-    System.out.println("Nóri");
+  public static void greet(String greeting) {
+    System.out.println(greeting + " Nóri");
   }
 
 }
