@@ -9,5 +9,6 @@ public class NoriClass {
 
   public static void greet(String greeting, String name) {
     System.out.println(greeting + " Nóri");
+
   }
 }
