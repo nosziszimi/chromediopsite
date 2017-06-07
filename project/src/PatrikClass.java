@@ -2,11 +2,11 @@
 public class PatrikClass {
 
   public static void main(String[] args) {
-    count();
+    count("B2 param");
   }
 
-  private static void count() {
-    System.out.println("24");
+  private static void count(String givenParameter) {
+    System.out.println(givenParameter);
   }
 
 }
