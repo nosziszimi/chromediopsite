@@ -7,7 +7,7 @@ public class PetiClass {
     cheer("Chrome Diopside");
   }
 
-  private static void cheer(String toPrint) {
-    System.out.println(toPrint);
+  private static void cheer(String toSystemOut) {
+    System.out.println(toSystemOut);
   }
 }
