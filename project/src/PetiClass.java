@@ -4,7 +4,7 @@
 public class PetiClass {
 
   public static void main(String[] args) {
-    cheer("Chrome Diopside");
+    cheer("Java");
   }
 
   private static void cheer(String toPrint) {
